@@ -5,7 +5,8 @@
 
 		public function index(){
 
-			echo "<h1>This is my CI_Controller...</h1>";
+			//echo "<h1>This is my CI_Controller...</h1>";
+			$this->load->view('myindexview');
 		}
 	}
 
