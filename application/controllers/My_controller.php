@@ -5,7 +5,7 @@
 
 		public function index(){
 
-			echo "This is my CI_Controller...";
+			echo "<h1>This is my CI_Controller...</h1>";
 		}
 	}
 
