@@ -25,7 +25,7 @@ class Welcome extends CI_Controller {
 
 	public function myindex(){
 
-		$this->load->view('myindexview')
+		$this->load->view('myindexview');
 		//echo "My Index";
 	}
 
