@@ -13,9 +13,11 @@
 
 			// echo "<h2>THis is the test fuction from My Controller...</h2>";
 			
-			
+			$this->load->model('my_model');
 
-			
+			$this->my_model->firstName();
+
+
 		}
 	}
 
