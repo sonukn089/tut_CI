@@ -4,12 +4,13 @@
 
 		public function firstName(){
 
-			 return "Akshay"; 
+			$lastName = $this->lastName();	
+			 return " Sonu " . $lastName; 
 		}
 
 		private function lastName(){
 
-			return "Bajpai";
+			return "Prajapati";
 		}
 	}
 
