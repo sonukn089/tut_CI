@@ -6,6 +6,11 @@
 
 			 return "Akshay"; 
 		}
+
+		private function lastName(){
+
+			return "Baj";
+		}
 	}
 
 ?>

@@ -11,7 +11,11 @@
 		}
 		public function test(){
 
-			echo "<h2>THis is the test fuction from My Controller...</h2>";
+			// echo "<h2>THis is the test fuction from My Controller...</h2>";
+			
+			
+
+			
 		}
 	}
 
