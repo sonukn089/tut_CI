@@ -4,7 +4,9 @@
 
 	class Test extends CI_controller{
 
-		
+		function index(){
+			
+		}
 	}
 
 
