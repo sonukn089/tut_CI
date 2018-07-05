@@ -14,10 +14,12 @@
 			// echo "<h2>THis is the test fuction from My Controller...</h2>";
 			
 			$this->load->model('my_model');
+			//$firstName = $this->my_model->firstName();
+			  $name = $this->my_model->firstName(); 	
+			// $lastName = $this->my_model->lastName();  <!-- without private function -->
 
-			$this->my_model->firstName();
-
-
+			echo "My name is => " . $name;    // $firstName
+			// echo "</br>Last Name => ".$lastName;    <!-- without private function -->
 		}
 	}
 
