@@ -4,7 +4,7 @@
 
 		function return_users(){
 
-			return ["username"=>"Sonu", "Company"=> "IITIANS PACE"];
+			return ["username"=>"Sonu", "company"=> "IITIANS PACE"];
 		}
 	}
 

@@ -13,20 +13,22 @@
 		<tr>
 			<th>Sr No.</th>
 			<th>Username</th>
+			<th>Company</th>
 		</tr>
 		<tr>
 			<td>1</td>
-			<td>Sonu</td>
+			<td><?= $userArray['username']; ?> </td>
+			<td><?= $userArray['company']; ?> </td>
 		</tr>
 	</table>
 
 </body>
 </html>
 
-<?php
+<!-- <?php
 
-	echo "<pre>";
-	print_r($userArray);
-	echo "</pre>";
+	// echo "<pre>";
+	// print_r($userArray);
+	// echo "</pre>";
 
-?>
+?> -->
