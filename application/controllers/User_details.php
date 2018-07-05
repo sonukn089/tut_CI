@@ -5,6 +5,8 @@
 		function index(){
 			// echo "Test";
 			
+			$this->load->model('user_model');        //load model Name
+			$userArray = $this->user_model->return_users();       // function Name
 			$this->load->view('user_view');
 		}
 	}
