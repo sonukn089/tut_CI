@@ -10,6 +10,7 @@
 <body>
 
 	<table>
+
 		<tr>
 			<th>Sr No.</th>
 			<th>Username</th>
@@ -18,6 +19,7 @@
 			<td>1</td>
 			<td>Sonu</td>
 		</tr>
+		
 	</table>
 
 </body>
