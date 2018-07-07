@@ -20,20 +20,20 @@
 
 			foreach ($userArray as $key => $value) {
 				
-				echo "<pre>";
-				print_r($value);
-				echo "</pre>";
+				// echo "<pre>";
+				// print_r($value);
+				// echo "</pre>";
 
 
 
 
 
 
-				// echo "<tr>
-				// 	<td>Sr No.</td>
-				// 	<td>Username</td>
-				// 	<td>Company</td>
-				// </tr>";
+				echo "<tr>
+					<td>".$value['id']."</td>
+					<td>".$value['username']."</td>
+					<td>".$value['company']."</td>
+				</tr>";
 			}
 		?>
 
