@@ -11,9 +11,11 @@
 			$query = $this->db->query("SELECT * FROM user");
 
 			$query->result_array();
+			// echo "<pre>";
+			// print_r($query->result_array());
+			// echo "</pre>";
 
-			print_r($query);
-
+			return $query->result_array()
 		}
 	}
 
