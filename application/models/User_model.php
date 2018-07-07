@@ -4,11 +4,12 @@
 
 		function return_users(){
 
+			// return ["username"=>"Sonu", "company"=> "IITIANS PACE"];
+
 			$this->load->database();
 
 			$query = $this->db->query("SELECT * FROM user");
 
-			return ["username"=>"Sonu", "company"=> "IITIANS PACE"];
 		}
 	}
 
