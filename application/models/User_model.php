@@ -6,7 +6,7 @@
 
 			$this->load->database();
 
-			$this->db->query();
+			$query = $this->db->query("SELECT * FROM user");
 
 			return ["username"=>"Sonu", "company"=> "IITIANS PACE"];
 		}
