@@ -10,6 +10,10 @@
 
 			$query = $this->db->query("SELECT * FROM user");
 
+			$query->result_array();
+
+			print_r($query);
+
 		}
 	}
 
