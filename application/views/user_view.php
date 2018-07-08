@@ -17,7 +17,6 @@
 		</tr>
 
 		<?php
-
 			foreach ($userArray as $key => $value) {
 				
 				// echo "<pre>";
