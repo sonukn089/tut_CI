@@ -17,7 +17,6 @@
 		</tr>
 
 		<?php
-
 			foreach ($userArray as $key => $value) {
 				
 				// echo "<pre>";
@@ -31,7 +30,6 @@
 				</tr>";
 			}
 		?>
-
 		<!-- <tr>
 			<td>1</td>
 			<td><?= $userArray['username']; ?> </td>
@@ -43,7 +41,6 @@
 </html>
 
 <!-- <?php
-
 	// echo "<pre>";
 	// print_r($userArray);
 	// echo "</pre>";
