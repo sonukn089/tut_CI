@@ -9,6 +9,8 @@
 			$this->load->helper('common');
 
 			echo add();
+
+			echo returnHello();
 			
 			$this->load->model('user_model');        //load model Name
 			$data['userArray'] = $this->user_model->return_users();       // function Name

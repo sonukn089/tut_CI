@@ -5,4 +5,9 @@
 		return 10+5;
 	}
 
+	function returnHello(){
+
+		return "Hello IITIANS PACE";
+	}
+
 ?>
