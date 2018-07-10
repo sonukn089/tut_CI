@@ -11,7 +11,6 @@
 			echo add();
 
 			echo "<br/>";
-
 			echo returnHello();
 			
 			$this->load->model('user_model');        //load model Name
