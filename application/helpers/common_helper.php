@@ -7,7 +7,7 @@
 
 	function returnHello(){
 
-		return "Hello IITIANS PACE EDUCATION PVT LTD.";
+		return "Hello IITIANS PACE EDUCATION PVT LTD";
 	}
 
 ?>
