@@ -5,6 +5,7 @@
 		function index(){
 
 			// echo "Test";
+
 			$this->load->helper('common');
 
 			echo add();
