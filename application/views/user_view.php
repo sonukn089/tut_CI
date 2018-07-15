@@ -10,7 +10,7 @@
 <body>
 
 	<h1>This my company details as well my.</h1>
-	<h2>This is Second Heading</h2>
+	<h2>This is Second Heading.</h2>
 
 	<table>
 		<tr>
