@@ -2,12 +2,12 @@
 
 	function add(){
 
-		return 10+5;
+		return 10+20;
 	}
 
 	function returnHello(){
 
-		return "HELLO IITIANS PACE EDUCATION PVT LTD.";
+		return "HELLO IITIANS PACE EDUCATION PVT LTD";
 	}
 
 ?>
