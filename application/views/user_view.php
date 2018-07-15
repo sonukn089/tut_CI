@@ -9,7 +9,7 @@
 </head>
 <body>
 
-	<h1>This my company details as well my</h1>
+	<h1>This my company details as well my.</h1>
 
 	<table>
 		<tr>
