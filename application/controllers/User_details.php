@@ -8,6 +8,7 @@
 
 			$this->load->helper('common');
 			echo add();
+			
 
 			echo "<br/>";
 			echo returnHello();
