@@ -5,13 +5,13 @@
 		function index(){
 
 			// echo "Test";
-			
-			$this->load->helper('common');
 
+			$this->load->helper('common');
 			echo add();
 
-			echo "<br/>";
 
+			echo "<br/>";
+			
 			echo returnHello();
 			
 			$this->load->model('user_model');        //load model Name
