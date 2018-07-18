@@ -25,7 +25,6 @@
 				// echo "<pre>";
 				// print_r($value);
 				// echo "</pre>";
-				// 
 
 				echo "<tr>
 					<td>".$value['id']."</td>
