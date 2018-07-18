@@ -14,6 +14,7 @@
 			// echo "<pre>";
 			// print_r($query->result_array());
 			// echo "</pre>";
+		
 
 			return $query->result_array();
 		}
