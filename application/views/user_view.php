@@ -33,12 +33,13 @@
 				</tr>";
 			}
 		?>
-		
+
 		<!-- <tr>
 			<td>1</td>
 			<td><?= $userArray['username']; ?> </td>
 			<td><?= $userArray['company']; ?> </td>
 		</tr> -->
+		
 	</table>
 
 </body>
