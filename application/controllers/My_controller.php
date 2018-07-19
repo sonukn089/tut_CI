@@ -10,6 +10,11 @@
 			
 		}
 
+		public function test(){
+
+			echo "This my test function......";
+		}
+
 	}
 
 ?>
