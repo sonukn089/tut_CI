@@ -1,19 +1,18 @@
 <?php
-	
-	defined('BASEPATH') OR exit('No direct script access allowed');
 
+	defined('BASEPATH') OR exit('No direct script access allowed');
+	
 	class Test extends CI_controller{
 
-		function index(){
+		public function index(){
 
-			echo "Index Method of Test Controller...";
+			echo "index method of test controller..";
 		}
 
-		function test_index(){
+		public function test_index(){
 
-			echo "Test Index Method of Test Controller...";
+			echo "test_index method of test controller..";
 		}
 	}
-
 
 ?>
