@@ -4,11 +4,12 @@
 
 		public function index(){
 
-			echo "This is my controller.."."</br>";
-			echo "This is my controller.."."</br>";
-			echo "This is my controller.."."</br>";
-			echo "This is my controller..";
+			// echo "This is my controller.."."</br>";
+			
+			$this->load->view('myindex'); 
+			
 		}
+
 	}
 
 ?>
