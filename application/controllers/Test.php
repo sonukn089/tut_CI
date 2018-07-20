@@ -11,7 +11,7 @@
 
 		public function test_index(){
 
-			echo "test_index method of test controller...";
+			echo "test_index method of test controller....";
 		}
 	}
 
